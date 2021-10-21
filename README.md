@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ronika.
-- 👀 I’m interested in everything that is responsible in creation. :)
-- 🌱 I’m currently learning how to be a creator. 
+- 👀 I’m interested web application in .net platform. :)
+- 🌱 I’m currently learning how to create my own web app. 
 - 💞️ I’m looking to collaborate on new creation on this web portal.
 - 📫 How to reach me - daveronika00@gmail.com
 
